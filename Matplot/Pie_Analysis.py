@@ -6,7 +6,6 @@ rotulos = ['Apple', 'Banana', 'Orange', 'Pineapple']#Definindo legendas
 
 explode = [.1, .1, .1, .1]#Definindo explosão do gráfico
 
-colors = ['black', 'orange', 'green', 'red']
 
 plt.figure(figsize=[5,5])#Definindo tamanho da imagem
 
